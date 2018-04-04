@@ -18,7 +18,6 @@ package com.example.android.sunshine.ui.detail;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-
 import com.example.android.sunshine.R;
 import com.example.android.sunshine.data.database.WeatherEntry;
 import com.example.android.sunshine.databinding.ActivityDetailBinding;
